@@ -1,4 +1,4 @@
-## 📖 About This Project
+## 📖 News Web Application
 
 This project is a **Neon-Themed News Web Application** 🌐, designed and developed using **HTML, CSS, and JavaScript**. It integrates with a **public News API 📰** to fetch and display the latest headlines in real time.
 
